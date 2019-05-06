@@ -13,7 +13,7 @@ This extension is currently in the development phase. I'm currently implementing
 - Upload to Chrome and Firefox 
 
 # Screenshots
-![screenshot](images/screenshot.png)
+![screenshot](images/screenshots/screenshot.png)
 
 # Tech
 **Built With**
