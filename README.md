@@ -1,4 +1,4 @@
-# To-Do List
+# TempMarks Extension
 This a browser extension to store temporary bookmarks for tabs you're not quite finished with. It is built in HTML, CSS, and Javascript. It allows the user to store temporary bookmarks for a period of 1 week, after which they will be removed. 
 
 # Motivation
