@@ -22,4 +22,4 @@ This extension is currently in the development phase. I'm currently implementing
 - Javascript
 
 # License
-MIT © Charles Dobson
+[MIT](LICENSE) © Charles Dobson
